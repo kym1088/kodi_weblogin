@@ -5,6 +5,7 @@
 1. 필요한 ott별 파일 다운로드 (.exe)
     - 티빙 : tvingWebLogin.exe
     - 디즈니 : disneyWebLogin.exe
+    - 쿠팡 : coupangWebLogin.exe
 
 2. 로그인 쿠키 파일 생성 (ott별로 세부적인 부분은 틀리지만, 결론은 프로필 선택까지 진행하여 초기화면까지 진입)
    - pc에서 exe파일 실행
@@ -16,6 +17,7 @@
    - 실행파일 폴더에 암호화된 로그인정보파일 생성되면 1단계 종료
      - 티빙 : tvinginfo-시간.twc
      - 디즈니 : disneyinfo-시간.twc
+     - 쿠팡 : coupanginfo-시간.twc
 
 3. 로그인정보 암호화 파일 kodi 장비에 복사
 
